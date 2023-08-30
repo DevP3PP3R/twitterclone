@@ -1,10 +1,9 @@
 import React from 'react';
+import AppRouter from './Router';
 
 function App() {
   return (
-    <div >
-      <h1>React 18 Alpha</h1>
-    </div>
+    <AppRouter />
   );
 }
 
